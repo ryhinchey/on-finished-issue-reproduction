@@ -1,0 +1,16 @@
+{
+  "name": "on-finished-issue-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ryan Hinchey <rlhinchey@gmail.com> (http://twitter.com/ryhinchey)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1",
+    "on-finished": "2.3.0"
+  }
+}
