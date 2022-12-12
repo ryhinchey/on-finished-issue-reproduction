@@ -10,7 +10,7 @@
   "author": "Ryan Hinchey <rlhinchey@gmail.com> (http://twitter.com/ryhinchey)",
   "license": "MIT",
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.17.3",
     "on-finished": "2.3.0"
   }
 }
